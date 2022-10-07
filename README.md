@@ -1,13 +1,19 @@
 <h1 align ="center"> Olá, me chamo Graciele Rodrigues!</h1> 
 <h2 align="center"> Bem vindo ao meu perfil GitHub 👋 </h2>
 
-![ola-5](https://user-images.githubusercontent.com/114750084/194603297-e0fcb696-bc70-4e2a-bd7c-796884402e8b.gif)
+<div align="center">
+<h2> Olá!! </h2>
+<img src="https://user-images.githubusercontent.com/114750084/194616386-fc31a103-7e6a-4683-83aa-63c1183f8c4d.gif"width="400px" />
+<div/>
 
 
+ <h2> I'm</h2>
+       
 - 🔭 Sou formada em engenharia mecânica e Técnico em Automação Industrial e estou estudando Especialização em Engenharia de Software e Gestão de Projetos.
 - 😎 Atualmente estou aprendendo --> Python,HtML,Java script,Java e cloud.
 - 😉 Estou procurando colaborar em projetos com automação. 
-- 👀 Curiosidade:--> Amo Eletrônica, Robôtica e Técnologia 😍
+- 👀 Curiosidade:--> Amo Eletrônica, Robôtica e Técnologia 
+       
 
 <h2> Tecnologias e Ferramentas 💻</h2>
 
@@ -18,11 +24,7 @@
             
           
  
-            
-                
-          
-  
-  
+                 
   
   <div>
 <a href="https://github.com/seu-usuário-aqui">
@@ -37,8 +39,14 @@
   
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/graciele-rodrigues-eng/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>   <a href="https://instagram.com/https://www.instagram.com/grace_figuered/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href = "mailto:graskt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+       
+       
+ <div align="center">
+<h2>Let's code!!!</h2>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" />
+</div>
   
-  ![Snake animation](https://github.com/Amazona21/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ 
                
             
            
