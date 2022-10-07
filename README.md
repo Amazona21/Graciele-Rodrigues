@@ -9,10 +9,10 @@
 
  <h2> I'm</h2>
        
-- 🔭 Sou formada em engenharia mecânica e Técnico em Automação Industrial e estou estudando Especialização em Engenharia de Software e Gestão de Projetos.
-- 😎 Atualmente estou aprendendo --> Python,HtML,Java script,Java e cloud.
-- 😉 Estou procurando colaborar em projetos com automação. 
-- 👀 Curiosidade:--> Amo Eletrônica, Robôtica e Técnologia 
+🔭 Sou formada em engenharia mecânica e Técnico em Automação Industrial e estou estudando Especialização em Engenharia de Software e Gestão de Projetos.
+😎 Atualmente estou aprendendo --> Python,HtML,Java script,Java e cloud.
+😉 Estou procurando colaborar em projetos com automação. 
+👀 Curiosidade?--> Amo Eletrônica, Robôtica e Tecnologia. 
        
 
 <h2> Tecnologias e Ferramentas 💻</h2>
@@ -41,15 +41,21 @@
   
        
        
- <div align="center">
+
 <h2>Let's code!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" />
-</div>
+
+
+ 
+<div> <img src="https://user-images.githubusercontent.com/114750084/194620728-1aa87243-ec6f-4279-86bf-5803c92ca89d.gif" width="200px" />     <div> <img src="https://user-images.githubusercontent.com/114750084/194621480-0e5047da-73ad-4424-8647-ad975fa95be0.gif" width="200px" />
+
+
   
  
                
             
-           
+          
+
+
           
             
           
