@@ -11,7 +11,7 @@
 
  <h2> I'm</h2>
        
-🔭 Sou formada em engenharia mecânica e Técnico em Automação Industrial e estou estudando Especialização em Engenharia de Software e Gestão de Projetos.
+🔭 Sou formada em engenharia mecânica e Técnico em Automação Industrial e estou estudando Especialização em Engenharia de Software e Gestão de Projetos, e Engenharia de produção
 😎 Atualmente estou aprendendo --> Python,HtML,Java script,Java e cloud.
 😉 Estou procurando colaborar em projetos com automação. 
 👀 Curiosidade?--> Amo Eletrônica, Robôtica e Tecnologia. 
