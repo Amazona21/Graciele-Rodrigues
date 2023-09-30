@@ -1,6 +1,6 @@
 <h1 align ="center"> Olá, me chamo Graciele Rodrigues!</h1> 
 <h2 align="center"> Bem vindo ao meu perfil GitHub 
-<img src=" w![daftpunktocat-guy](https://github.com/Gracesk8tt/Graciele-Rodrigues/assets/114750084/52f48a5c-ef89-4501-8ee2-fea250925d66)
+<img src="https://github.com/Gracesk8tt/Graciele-Rodrigues/assets/114750084/52f48a5c-ef89-4501-8ee2-fea250925d66)
 idth="30px"</h2>
     
 
