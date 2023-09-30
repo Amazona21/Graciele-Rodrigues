@@ -1,6 +1,7 @@
 <h1 align ="center"> Olá, me chamo Graciele Rodrigues!</h1> 
 <h2 align="center"> Bem vindo ao meu perfil GitHub 
-<img src="https://user-images.githubusercontent.com/114750084/194724674-6ee61a72-f1ad-4f6c-8def-9ba4935576c1.gif"= " width="30px"</h2>
+<img src=![image](https://github.com/Gracesk8tt/Graciele-Rodrigues/assets/114750084/bbbd3c27-5c9e-4cee-8a06-ef8554a4df78)
+"= " width="30px"</h2>
     
 
 
