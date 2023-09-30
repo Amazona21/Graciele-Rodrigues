@@ -2,7 +2,7 @@
 <h2 align="center"> Bem vindo ao meu perfil GitHub </h2>
 
 <div align="center">
-![images](https://github.com/Gracesk8tt/Graciele-Rodrigues/assets/114750084/a5f795da-75aa-4618-a381-a8292cc3ae88)
+(https://github.com/Gracesk8tt/Graciele-Rodrigues/assets/114750084/a5f795da-75aa-4618-a381-a8292cc3ae88)
 <div/>
     
 
