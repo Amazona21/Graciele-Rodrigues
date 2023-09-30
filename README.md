@@ -1,10 +1,6 @@
 <h1 align ="center"> Olá, me chamo Graciele Rodrigues!</h1> 
 <h2 align="center"> Bem vindo ao meu perfil GitHub </h2>
 
-<div align="center">
-(https://github.com/Gracesk8tt/Graciele-Rodrigues/assets/114750084/a5f795da-75aa-4618-a381-a8292cc3ae88)
-<div/>
-    
 
 
 <div align="center">
