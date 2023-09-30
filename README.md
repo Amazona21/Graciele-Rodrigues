@@ -2,7 +2,7 @@
 <h2 align="center"> Bem vindo ao meu perfil GitHub 
 
 
-<img src=![daftpunktocat-guy](https://github.com/Gracesk8tt/Graciele-Rodrigues/assets/114750084/29dc9833-9e6c-474b-a019-5b369ae32b1f) width="400px" />
+<img src=![daftpunktocat-guy](https://github.com/Gracesk8tt/Graciele-Rodrigues/assets/114750084/29dc9833-9e6c-474b-a019-5b369ae32b1f) width="200px" />
 
     
 
